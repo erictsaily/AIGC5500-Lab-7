@@ -12,7 +12,7 @@ Open lab07.ipynb, select the python environment, ensure you have installed all t
 
 ## Hardware
 GPU: Tesla T4
-Time:
+Time: 232.05 seconds
 
 ## Conventions
 Reconstruction loss: Sum over 64 pixels, average over batch.
